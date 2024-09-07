@@ -1,6 +1,6 @@
 ## **README.md**
 
-### ** Encontre suas músicas favoritas! **
+###  Encontre suas músicas favoritas! 
 
 **O que faz essa aplicação?**
 
